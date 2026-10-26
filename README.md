@@ -1,5 +1,8 @@
 # Image Acquisition Using Web Camera
 
+## Name : SUJITH A
+## Register No: 212224230278
+
 ## Aim
 
 To write a Python program using OpenCV to capture images from a webcam and perform the following image manipulations:
@@ -38,9 +41,6 @@ Rotate the frame using `cv2.rotate()` and display the output.
 
 ## Program
 
-**Developed By:** SUJITH A
-
-**Register Number:** 212224230278
 
 ## i) Write the Frame as a JPG File
 
